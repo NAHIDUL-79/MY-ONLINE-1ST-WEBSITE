@@ -1,0 +1,31 @@
+h1{
+    color:white;
+    font-size:70px;
+    background-color:blue;
+    text-align:center;
+}
+body{
+    background-color:blue;
+}
+input{
+    color:blueviolet;
+    font-size:50px;
+    width: 900px;
+}
+label{
+    color:rgb(160, 163, 199);
+    font-size:70px;
+}
+button{
+    color:white;
+    background-color: blue;
+    text-align: center;
+    font-size:30px;
+}
+img{
+    width:300px;
+    height:250px;
+}
+a{
+    color:white;
+}
